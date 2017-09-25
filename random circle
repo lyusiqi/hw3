@@ -1,3 +1,7 @@
+background(255);
+strokeWeight(3);
+colorMode(HSB);
+
 while (true){
   var h= random (360)
 fill (random(h), 0,random(255));
